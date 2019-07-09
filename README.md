@@ -1,2 +1,2 @@
 # URI
-Resolusões de problemas propostos no URI Online Jugde
+Resoluções de problemas propostos no URI Online Jugde
